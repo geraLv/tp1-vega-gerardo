@@ -1,0 +1,1 @@
+{"version":3,"file":"Resultado.d.ts","sourceRoot":"","sources":["../../src/models/Resultado.ts"],"names":[],"mappings":"AAAA,qBAAa,SAAS;IACD,UAAU,EAAE,MAAM;IAAS,cAAc,EAAE,MAAM;gBAAjD,UAAU,EAAE,MAAM,EAAS,cAAc,EAAE,MAAM;IAEpE,QAAQ,IAAI,MAAM;IAIlB,IAAI,OAAO,IAAI,MAAM,CAIpB;CACF"}
